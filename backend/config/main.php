@@ -63,6 +63,13 @@ return [
     ),
 ],
 
+'formatter' => [
+            'dateFormat' => 'd.M.y H:i',
+            'decimalSeparator' => ',',
+            'thousandSeparator' => ' ',
+            'currencyCode' => 'Rs',
+       ],
+
 
     ],
     'params' => $params,

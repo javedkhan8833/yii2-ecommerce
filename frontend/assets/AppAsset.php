@@ -1,7 +1,8 @@
 <?php
 
 namespace frontend\assets;
-
+use yii\bootstrap4\BootstrapAsset;
+use yii\bootstrap4\BootstrapPluginAsset;
 use yii\web\AssetBundle;
 
 /**
